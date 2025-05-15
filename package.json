@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.technocite.artteamxrbox",                              
+  "displayName": "Charleroi Art team XR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Drop your assets here in a almost clean mode. Respect convention. Please",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/P_2025_05_05_ArtXR.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
